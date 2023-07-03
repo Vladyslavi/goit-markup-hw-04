@@ -527,7 +527,7 @@ button {
     flex-grow: 1;
 }
 .section.customers {
-    padding: 120px 0;
+    padding: 32px 0 32px;
 }
 .customer-container {
     margin: 0;
