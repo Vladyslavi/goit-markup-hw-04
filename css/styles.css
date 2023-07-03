@@ -302,7 +302,7 @@ button {
     margin-bottom: 8px;
 }
 .section-advantages .icons {
-    background-color: var(--text-footer-color);
+    background-color: #f4f4fd;
     min-width: 264px;
     min-height: 112px;
     display: flex;
