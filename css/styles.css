@@ -664,12 +664,13 @@ button {
 .btn_modal:focus {
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 
 .icon-btn-close {
     align-items: center;
-        fill: var(--secondary-color);
-        transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    fill: var(--secondary-color);
+    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .icon-btn-close:hover,
