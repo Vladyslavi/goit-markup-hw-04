@@ -66,11 +66,6 @@ button {
     font-family: inherit;
     cursor: pointer;
 }
-.
-
-.title {}
-
-.title-accent {}
 
 .subtitle {
     font-weight: 500;
@@ -132,9 +127,6 @@ button {
     justify-content: space-between;
 }
 
-.header-item {
-      
-}
 
 .header-nav {
     display: flex;
@@ -182,10 +174,6 @@ button {
     gap: 40px;
 }
 
-.tel {}
-
-.mail {}
-
 .address-link {
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -216,8 +204,6 @@ button {
 .address {
     list-style: none;
 }
-.section {}
-
 .hero {
     background-color: var(--main-dark-cl);
     padding-top: 188px;
@@ -332,7 +318,6 @@ button {
 .section-doing-img:last-child{
     margin-right: 0;
 }
-.section {}
 
 .team {
     background-color: var(--main-light-cl);
@@ -487,7 +472,6 @@ button {
     letter-spacing: 0.02em;
 }
 
-.portfolio-main-item {}
 
 .portfolio-main {
     list-style: none;
@@ -596,7 +580,6 @@ button {
     margin-right: 0;
 }
 
-.section.customers {}
 .page {
     position: relative;
 }
@@ -669,7 +652,7 @@ button {
 
 .icon-btn-close {
     align-items: center;
-    fill:var(--secondary-color);
+    fill: var(--secondary-color);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
