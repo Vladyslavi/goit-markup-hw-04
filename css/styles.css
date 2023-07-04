@@ -510,8 +510,8 @@ button {
     position: relative;
     overflow: hidden;
 }
-.portfolio-main-item:hover .overlay 
-.portfolio-main-item:focus .overlay {
+.portfolio-main .link:hover .portfolio-description, 
+.portfolio-main .link:focus .portfolio-description {
     transform: translateY(0);
 }
 
@@ -520,8 +520,8 @@ button {
     height: 100%;
     width: 100%;
     padding: 40px 32px;
-    background-color: var(--bg-overlay-text);
-    color: var(--color-overlay-text);
+    background-color: #4d5ae5;
+    color: #f4f4fd;
     top: 0;
     font-weight: 400;
     font-size: 16px;
