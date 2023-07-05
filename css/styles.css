@@ -617,7 +617,7 @@ button {
     width: 100%;
     height: 4px;
     border-radius: 2px;
-    background: var(--ocean, #404BBF);
+    background: var(--ocean, #2E2F42);
     content: "";
     margin-top: 20px;
     bottom: -1px;
